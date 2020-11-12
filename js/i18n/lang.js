@@ -1,4 +1,5 @@
 //need to run on server, for localhost use laragon or node server
+//for more info/tutorial refer this website https://lokalise.com/blog/localizing-apps-jquery/
 $(function() {
     //function to load all the translation file and apply on the page
     loadLanguageOnReady();
