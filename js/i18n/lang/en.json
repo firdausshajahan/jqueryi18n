@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+		"authors": [
+			"Firdaus"
+		],
+		"last-updated": "2020-11-12",
+		"locale": "en",
+		"message-documentation": "qqq",
+		"AnotherMetadata": "AnotherMedatadataValue"
+    },
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "welcome": "Welcome",
+    "desc_heading": "This is a website that shows the beautiful the world of aquascape",
+    "btn_cta": "Click to watch!",
+    "more_info": "Find Out More!",
+    "pakej1": "PH",
+    "pakej1_desc": "Testing the PH parameter",
+    "pakej2": "CO2",
+    "pakej2_desc": "How CO2 in tank make plants grow faster",
+    "pakej3": "Light",
+    "pakej3_desc": "Choosing right Light",
+    "pakej4": "Filters",
+    "pakej4_desc": "Suitable filters based on tank size",
+    "copyright": "Copyright blah2"
+}

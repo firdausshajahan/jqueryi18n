@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+		"authors": [
+			"Firdaus"
+		],
+		"last-updated": "2020-11-12",
+		"locale": "bm",
+		"message-documentation": "qqq",
+		"AnotherMetadata": "AnotherMedatadataValue"
+    },
+    "home": "Laman Utama",
+    "about": "Tentang",
+    "services": "Servis",
+    "contact": "Hubungi",
+    "welcome": "Selamat Datang",
+    "desc_heading": "Website ini memaparkan kecantikan dunia aquaskape",
+    "btn_cta": "klik untuk melihat!",
+    "more_info": "Keterangan Lanjut",
+    "pakej1": "PH",
+    "pakej1_desc": "Menguji Parameter PH",
+    "pakej2": "CO2",
+    "pakej2_desc": "Bagaimana CO2 mempengaruhi kadar pertumbuhan pokok yang cepat",
+    "pakej3": "Lampu",
+    "pakej3_desc": "Memilih lampu yang sesuai",
+    "pakej4": "Filter",
+    "pakej4_desc": "Kesesuaian filter mengikut saiz tangki",
+    "copyright": "Hak Cipta Terpelihara blah2"
+}
